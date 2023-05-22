@@ -1,0 +1,17 @@
+.first-container {
+   width: 800px;
+   height: 800px;  
+   background-color: rgb(23, 77, 152);
+border: 50px solid green;
+padding: 100px;
+margin: 100px;
+outline-style: dotted;
+}
+#css{
+    text-align: center;
+    width: 650px;
+    height: 600px;
+    background-color: rgb(237, 212, 24);
+    border: 50px solid red;
+    padding: 20px;
+}
